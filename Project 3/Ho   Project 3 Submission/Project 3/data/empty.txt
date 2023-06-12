@@ -1,0 +1,4 @@
+Line 1 of the empty test file should throw WrongCopyrightException 
+Line 2
+Line 3
+Line 4
